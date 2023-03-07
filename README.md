@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soi-Han&layout=compact)](https://github.com/Soi-Han/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soi-Han&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soi-Han&show_icons=true&theme=flag-india)
 
 <h1>SKILLS<h1>
 #
