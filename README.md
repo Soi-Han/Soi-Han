@@ -3,7 +3,7 @@
 <!--
 **Soi-Han/Soi-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p><a style="text-align: -webkit-center;" href="https://blog.naver.com/thdl4183" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a></p
+<p><a style="text-align: -webkit-center;" href="https://blog.naver.com/thdl4183" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a></p>
 
 
 
